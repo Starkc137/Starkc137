@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Nhlakanipho Ndlanzi</h1>
 
-# 💫 About Me:
+# About Me:
 I am a software engineer, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
-- 💻 Exploring Go (Golang) for backend programming
+- Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- Building Spring Boot applications with PostgreSQL
+- Exploring Go (Golang) for backend programming
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndlanzi-c137/)
 
 [![Portfolio](https://img.shields.io/badge/build-Portfolio-brightgreen?style=flat&logoColor=blue&label=Stark's&color=green)](https://portfolio-gules-nine-71.vercel.app/)
